@@ -1,12 +1,14 @@
-baseurl: "/shiori" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "http://ellekasai.github.io" # the base hostname & protocol for your site
-title: "Shiori"
-
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "http://m1raedoraemi.github.io" # the base hostname & protocol for your site
+title: "FakerZZANG"
+future: true
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
+description: "미래의 코딩랜드"
 
 gems:
   - jemoji
+  - jekyll-gist
 exclude:
   - "README.md"
   - "CHANGELOG.md"
