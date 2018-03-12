@@ -1,9 +1,9 @@
 # Site Info
-title: MIRAE
+title: Codinfox Lanyon
 tagline: 'A Jekyll theme based on Lanyon'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: "/lanyon"
-url: http://m1raedoraemi.github.io
+url: http://codinfox.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -25,7 +25,7 @@ version: 1.0.0
 # About/contact
 author:
   name: Codinfox
-  description: A <strong>developer and researcher</strong>, learning to be a giant.
+  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/lizhihao
@@ -61,5 +61,3 @@ mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
 
-
-theme: jekyll-theme-cayman
