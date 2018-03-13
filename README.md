@@ -1,23 +1,35 @@
-# Codinfox-Lanyon
+# NexT
 
-This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
+> 精于心，简于形
 
-**If you like this project, PLEASE give it a star.**
+NexT 是由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来的 Jekyll 主题。<!--commit: f951075d9b739d26b42472431995fa68d08796aa-->
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+<a href="http://simpleyyt.github.io/jekyll-theme-next/" target="_blank">在线预览 Preview</a> | <a href="http://simpleyyt.com" target="_blank">Yitao's Blog</a> | <a href="http://theme-next.simpleyyt.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
 
-All the configurations are inside either `_config.yml` or `_config.scss`. The options are fairly straightforward. 
+[![Join the chat at https://gitter.im/simpleyyt/jekyll-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jekyll-theme-next/lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-The theme supports: 
-
-1. Theme colors: you can choose your favorite theme color
-2. Changable sidebar locations
-3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
-4. and numerous improvements over original Lanyon
+![NexT Schemes](http://iissnan.com/nexus/next/next-schemes.jpg)
 
 
-## License
+## 浏览器支持 Browser support
 
-Open sourced under the [MIT license](LICENSE.md).
+![Browser support](http://iissnan.com/nexus/next/browser-support.png)
 
-<3
+
+## 贡献 Contributing
+
+欢迎提交问题与需求，修复代码。
+
+
+## 开发 Development
+
+NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。
+
+NexT is built for easily use with elegant appearance. First things first, always keep things simple.
+
+
+## 捐赠
+
+支付宝捐赠链接还是要有的，万一真的有人捐呢。
+
+![支付宝扫码捐赠](http://p1.bpimg.com/567571/9a4a158daee8aa69.png)
