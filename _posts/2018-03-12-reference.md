@@ -1,14 +1,82 @@
 ---
-title: Elements
-date: 2013-12-24 23:29:08
+title: reference
+date: 2018-03-12 23:29:08
 categories:
-- Foo
+- reference
+photos:
+- http://ww1.sinaimg.cn/mw690/81b78497jw1emfgwkasznj21hc0u0qb7.jpg
+- http://ww3.sinaimg.cn/mw690/81b78497jw1emfgwjrh2pj21hc0u01g3.jpg
+- http://ww2.sinaimg.cn/mw690/81b78497jw1emfgwil5xkj21hc0u0tpm.jpg
+- http://ww3.sinaimg.cn/mw690/81b78497jw1emfgvcdn25j21hc0u0qpa.jpg
 tags:
+- reference
+description: Reference 용. 곧 숨길 예정
 ---
 
 The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don't forget to redefine the style by yourself.
 
 ---
+
+# Link
+This is a link post. Clicking on the link should open [Google](http://www.google.com/) in a new tab or window.
+
+# Block
+This post is used for testing tag plugins. See [docs](http://zespia.tw/hexo/docs/tag-plugins.html) for more info.
+
+## Block Quote
+
+### Normal blockquote
+
+> Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.
+
+## Code Block
+
+### Inline code block
+
+This is a inline code block: `python`, `print 'helloworld'`.
+
+### Normal code block
+
+```
+alert('Hello World!');
+```
+
+    print "Hello world"
+
+### Highlight code block
+
+```python
+print "Hello world"
+```
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+### Gist
+
+{% gist 996818 %}
+
+# images
+
+This is a image test post.
+
+![](http://ww1.sinaimg.cn/mw690/81b78497jw1emfgwkasznj21hc0u0qb7.jpg)
+
+![Caption](http://ww3.sinaimg.cn/mw690/81b78497jw1emfgwjrh2pj21hc0u01g3.jpg)
+
+![](http://ww2.sinaimg.cn/mw690/81b78497jw1emfgwil5xkj21hc0u0tpm.jpg)
+
+![Small Picture](http://placehold.it/350x150.jpg)
+
 
 # Heading 1
 
