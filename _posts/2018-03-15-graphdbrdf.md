@@ -15,5 +15,5 @@ Graph DB를 표현하는 RDF에 대한 정리
 내용은 [한국정보화진흥원에 올라온 가이드](http://koreadb.data.go.kr/frt/cms/resourceMng/selectResourceMngment.do?nttId=7300&bbsId=BBSMSTR_000007003020&pageIndex=1&searchCnd=&searchWrd)를 공부하며 정리하였다 <br />
 한국어로 된 자료 중 좋은 것 같아서 rdf에 대해서 처음 알고자 하는 사람들은 보길 추천한다
 
-![](_posts/_image/RDF.002.jpeg)
 ![](https://github.com/m1raedoraemi/m1raedoraemi.github.io/blob/master/_posts/_image/RDF.002.jpeg?raw=true)
+![]({{ site.url }}/_posts/_image/RDF.003.jpeg)
